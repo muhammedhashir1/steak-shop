@@ -1,0 +1,20 @@
+@font-face{
+	font-family: raster;
+	src:url("font/raster_slice.ttf");
+}
+@font-face{
+	font-family: clover;
+	src:url("font/clover.ttf");
+}
+@font-face{
+	font-family: thorn;
+	src:url("font/thorn.ttf");
+}
+@font-face{
+	font-family: euro;
+	src:url("font/eurolite.ttf");
+}
+@font-face{
+	font-family: relu;
+	src:url("font/relu.otf");
+}
